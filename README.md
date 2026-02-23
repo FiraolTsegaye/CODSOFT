@@ -1,1 +1,4 @@
-Completed all LEVEL 1 tasks and put them together in .zip form
+CODSOFT internship projects
+Include
+- personal portfolio website
+- basic calculator
